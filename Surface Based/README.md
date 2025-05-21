@@ -1,4 +1,4 @@
-# All programs included in this folder will analyze surface based data. Some valuable surface based networks include: </p>
+# All programs included in this folder will analyze surface based data. Some valuable surface based resources and networks include: </p>
 ## The U.S. Census Bureau </p>
 The U.S. Census Bureau releases shapefiles for states and counties that can be used for more precise surface data visualization. Shapefiles can be retrieved at: https://www2.census.gov/ </p>
 ## IOWA Environmental Mesonet </p> 
