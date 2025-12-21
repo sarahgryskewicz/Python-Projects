@@ -4,3 +4,8 @@ The U.S. Census Bureau releases shapefiles for states and counties that can be u
 ## IOWA Environmental Mesonet </p> 
 The Iowa Environmental Mesonet (IEM) collects environmental data from cooperating members with observing networks. The data are stored and made available at: https://mesonet.agron.iastate.edu/ </p> 
 > Another useful link: https://mesonet.agron.iastate.edu/request/download.phtml?network=IA_ASOS </p>
+## New York State (NYS) Mesonet </p> 
+The NYS Mesonet collects environmental and atmospheric data across NYS. The network can be accessed at: https://nysmesonet.org/ </p> 
+> Standard network data: https://www.nysmesonet.org/networks/standard </p>
+> Flux network data: https://www.nysmesonet.org/networks/flux#stid=flux_voor </p>
+> Profiler network data: https://nysmesonet.org/networks/profiler#stid=prof_buff </p>
