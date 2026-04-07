@@ -5,3 +5,5 @@ Herbie is a fantastic resource for retrieving and analyzing archived NWP model d
 GOES-to-go is a fantastic resource for retrieving and analyzing archived GOES satellite imager. More information about the module can be accessed here: https://goes2go.readthedocs.io/en/latest/ </p> 
 ## earthaccess Python Library </p>
 NASA's earthaccess library is an efficient and resourceful tool useful for downloading and streaming NASA Earth science data. More information about earthaccess can be accessed here: https://earthaccess.readthedocs.io/en/stable/ </p>
+## WRF Python </p>
+NCAR has developed a Python package for the public to make easy use of for programming with wrfout files. See their documentation here: https://wrf-python.readthedocs.io/en/latest/ </p>
